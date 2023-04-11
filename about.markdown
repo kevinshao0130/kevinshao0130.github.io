@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 關於Kevin Shao
+我是一名在台灣🇹🇼工作的React前端工程師，喜歡披荊斬棘的面對挑戰，對寫code抱著蠻大的熱情 (至少目前為止啦)。  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+有一種遇到困難就會想要解決的強迫症，因此在開發過程中遇到任何坑都會強迫自己記錄下來，並盡力養成這種習慣 (如果沒有忘記的話)。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+這裡，是我結合自己的經驗以及一些參考資料，整理出來的個人筆記，`如果有誤敬請指正`。
