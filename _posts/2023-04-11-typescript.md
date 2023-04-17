@@ -2,6 +2,7 @@
 layout: post
 title: "Typescript"
 date: 2023-04-11 16:00:00 +0800
+last_updated: 2023-04-11 16:00:10 +0800
 ---
 
 ### 一些比較特殊不常見的型別

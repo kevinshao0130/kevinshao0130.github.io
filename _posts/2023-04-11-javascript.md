@@ -2,6 +2,7 @@
 layout: post
 title: "Javascript"
 date: 2023-04-11 16:00:10 +0800
+last_updated: 2023-04-11 16:00:10 +0800
 ---
 
 ### map()和forEach()的區別
